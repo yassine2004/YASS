@@ -1,0 +1,46 @@
+h1 {
+    color: green;
+}
+li {
+    color: red;
+    
+        margin: 30px;
+        border: 1px solid #4CAF50;
+        margin-right: 150px;
+        background-color: #4CAF50;
+}
+
+h2 {
+        color: red;
+         margin: 10px;
+}
+
+p {
+    color: blueviolet; 
+    border: 1px solid  #4CAF50;
+    margin-right: 150px;
+
+
+}
+body{
+    background-color: darkgray;
+    
+}
+ #frr{
+    margin-right: 150px;
+    background-color: aqua;
+ }       
+
+ h2 {
+    color: red;
+     margin: 10px;
+}
+
+p {
+    color: blueviolet; 
+    border: 1px solid  #4CAF50;
+    margin-right: 150px;
+    background-color: rgb(139, 34, 34);
+
+
+}
